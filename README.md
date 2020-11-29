@@ -1,0 +1,2 @@
+# Engeto-1-Spojovani_opakovani_zjisteni_delky_stringu
+Engeto-1-Spojovani_opakovani_zjisteni_delky_stringu
